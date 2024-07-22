@@ -17,6 +17,8 @@ function find() { // EXERCISE A
   */
 }
 
+
+
 function findById(scheme_id) { // EXERCISE B
   /*
     1B- Study the SQL query below running it in SQLite Studio against `data/schemes.db3`:
